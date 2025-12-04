@@ -71,7 +71,7 @@
 
 ### Сведения об участниках
 
-* [Dontaz](https://github.com/Dontaz) - Публикация, Редактирование публичных материалов, Шпионаж, Продвижение, Постоянные гифки с котиками
+* [Dontaz](https://github.com/Dontaz) - Публикация, Редактирование публичных материалов, Продвижение, Постоянные гифки с котиками
 * [Claymore0098](https://github.com/Kirito0098) - Самый большой вклад по нейропереводу для черновика. 
 * [AleksejBelov](https://github.com/grifon102)
 * [ZoG Community](https://forum.zoneofgames.ru/topic/80635-where-winds-meet)
