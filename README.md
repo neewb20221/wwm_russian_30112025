@@ -78,8 +78,9 @@
 
 <div align="center">
 
-|**Отдельное спасибо всем участникам на GitHub, которые внесли свой вклад в этот русификатор!**<br/><br/>[![Contributors](https://contrib.rocks/image?repo=DOG729/wwm_russian)](https://github.com/DOG729/wwm_russian/graphs/contributors)|
-||
+|**Отдельное спасибо всем участникам на GitHub, которые внесли свой вклад в этот русификатор!**|
+|:-----:|
+|[![Contributors](https://contrib.rocks/image?repo=DOG729/wwm_russian)](https://github.com/DOG729/wwm_russian/graphs/contributors)|
 
 </div>
 
